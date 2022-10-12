@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "548f0c2b12154b32a1cd",
-    "url": "https://.github.io/csb-kyvwnj/static/css/main.c72dabb5.chunk.css"
+    "revision": "b9646d391ea1cd197bd2",
+    "url": "https://.github.io/csb-kyvwnj/static/css/main.c182b6f8.chunk.css"
   },
   {
-    "revision": "548f0c2b12154b32a1cd",
-    "url": "https://.github.io/csb-kyvwnj/static/js/main.6b7209bb.chunk.js"
+    "revision": "b9646d391ea1cd197bd2",
+    "url": "https://.github.io/csb-kyvwnj/static/js/main.d51870dd.chunk.js"
   },
   {
     "revision": "8f591c6c1e5612e440f2",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://.github.io/csb-kyvwnj/static/js/2.a544385d.chunk.js"
   },
   {
-    "revision": "c80d0639a774db4b19e77ee997bbd36e",
+    "revision": "71f4133f7b87cbeee4a9017df9f7d700",
     "url": "https://.github.io/csb-kyvwnj/index.html"
   }
 ];
